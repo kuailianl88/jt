@@ -8,10 +8,11 @@ downLinks.forEach(function(link) {javascript:;
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL
-        window.location.href = "https://potatode.top/";
+        window.location.href = "https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z64b9c51816b9c17a9a8a0311_f103e16aae95cd40c_d20250901_m092428_c005_v0501035_t0045_u01756718668334";
     });
 
 });
+
 
 
 
