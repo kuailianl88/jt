@@ -8,10 +8,11 @@ downLinks.forEach(function(link) {javascript:;
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL
-        window.location.href = "https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_zce10df696d66b3179d810519_f10530b7964533c78_d20250907_m092112_c005_v0501018_t0028_u01757236872317";
+        window.location.href = "https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_zce10df696d66b3179d810519_f1047a73efb2685bb_d20250907_m093742_c005_v0501035_t0007_u01757237862578";
     });
 
 });
+
 
 
 
